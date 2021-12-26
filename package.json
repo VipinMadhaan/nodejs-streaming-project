@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-streaming-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "module",
+    "url": "ads-project"
+  },
+  "author": "Vipin",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "fast-csv": "^4.3.6",
+    "mysql2": "^2.3.3",
+    "node-fetch": "^3.1.0"
+  }
+}
